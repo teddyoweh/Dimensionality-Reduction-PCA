@@ -1,4 +1,4 @@
-# Dimensionality reduction
+# Dimensionality Reduction
 
  Dimensionality is refered to the attribute or features of a dataset
  
