@@ -1,4 +1,4 @@
-# Dimensionality Reduction
+# Dimensionality Reduction PCA
 
  Dimensionality is refered to the attribute or features of a dataset
  
